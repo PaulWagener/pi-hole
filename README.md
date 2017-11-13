@@ -17,6 +17,7 @@ Block ads for **all** your devices _without_ the need to install client-side sof
 - Smart TV's
 - Internet-connected home automation
 - Anything that communicates with the Internet
+- And Paul's Feature!
 
 <p align="center">
 <a href=http://www.digitalocean.com/?refcode=344d234950e1><img src="https://assets.pi-hole.net/static/DOHostingSlug.png"></a>
